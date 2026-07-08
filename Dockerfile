@@ -1,5 +1,5 @@
 #Build stage
-FROM maven:3.9.9-eclipcse-termurin-21 AS build
+FROM maven:3.9.9-eclipse-termurin-21 AS build
 
 
 WORKDIR /app
